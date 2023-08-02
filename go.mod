@@ -1,5 +1,5 @@
-module github.com/eiannone/keyboard
+module github.com/n4x2/keyboard
 
 go 1.18
 
-require golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
+require golang.org/x/sys v0.10.0
